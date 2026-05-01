@@ -23,5 +23,3 @@ npm run dev
 
 - **Build command**: `npm run build`
 - **Build output directory**: `dist`
-
-This repo includes `public/_redirects` to make it behave as an SPA on Cloudflare Pages.
